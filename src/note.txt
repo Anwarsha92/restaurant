@@ -1,0 +1,67 @@
+
+
+js Api
+------
+
+AJAX
+----
+
+1.xmlhttps
+2.fetch
+3.async
+
+
+async and await - used t9 directly store the asynchrnous datas
+
+async put at b4 fn name  ,   and await put at b4 asynchrnous data
+
+
+useEffect  -  hook used to call function at the starting time of components
+
+
+Redirection in reactjs
+----------------------
+
+React router dom        - library used for Redirection
+
+BrowserRouter   - root component selevtor
+Route           - for path setting
+Routes          - if we use more than one path
+
+
+Params
+------
+
+-useParams - hook used to access params
+
+
+
+REDUX
+------
+
+props drilling - 
+        -data will stuck in any intermediate component when the component have any issues
+
+        -props drilling occurs during coupling (coupling - many connection b/w parent and child)
+
+
+  to avoid props drilling we need to reduce coupling and make all components independent
+  So react introduced a state management technology --- REDUX
+                                                        ------
+
+
+
+a js store file
+
+
+
+
+
+
+
+
+Libraries
+
+    redux
+    react-redux
+    redux-thunk
